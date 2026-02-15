@@ -99,6 +99,5 @@ class AdocaoServiceTest {
         //ASSERT
         BDDMockito.then(validador1).should().validar(dto);
         BDDMockito.then(validador2).should().validar(dto);
-
     }
 }

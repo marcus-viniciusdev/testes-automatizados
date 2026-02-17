@@ -27,7 +27,7 @@ class TutorServiceTest {
     private TutorRepository repository;
 
     private CadastroTutorDto dtoCadastro;
-    
+
     private AtualizacaoTutorDto dtoAtualizacao;
 
     @Mock
